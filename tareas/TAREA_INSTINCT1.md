@@ -1,28 +1,16 @@
-# Tarea vigente · Instinct 1 · ronda 3 · 26-nov-2026 · Tres skills que cierran huecos del Método
+# Tarea vigente · Instinct 1 · ronda 4 · 26-nov-2026 · Calibrar al juez
 
-> **RONDA ACTUAL: 3.** Si lo que lees dice "ronda 1" o "ronda 2", o ya la hiciste, es una copia vieja: vuelve a abrir el link agregando `?r=3` al final.
-> **ENTREGA OBLIGATORIA:** un solo archivo **.txt descargable** llamado `instinct_ronda3_26nov.txt`, con "PARTE 1: Instinct 1" y "PARTE 2: Instinct 2".
+> **RONDA ACTUAL: 4.** Si dice otra ronda o ya la hiciste, vuelve a abrir el link con `?r=4`.
+> **ENTREGA OBLIGATORIA:** un solo archivo **.txt descargable** `instinct_ronda4_26nov.txt`, con "PARTE 1: Instinct 1" y "PARTE 2: Instinct 2".
 
-**PRIMERO, DESPACHO (autorizado por Luis/Gallo):** antes de empezar tu parte, despacha a Instinct 2 su tarea vigente con este link y pídele que la haga completa:
-https://raw.githubusercontent.com/Luispollogallo/cabilu-exploradores/main/tareas/TAREA_INSTINCT2.md?r=3
-Cuando termine, junta su entrega con la tuya.
+**PRIMERO, DESPACHO (autorizado por Luis/Gallo):** despacha a Instinct 2 su tarea: https://raw.githubusercontent.com/Luispollogallo/cabilu-exploradores/main/tareas/TAREA_INSTINCT2.md?r=4 — y junta su entrega con la tuya.
 
-Tu skill de la ronda 2 (`agencia-punta-a-punta`) quedó como candidata, con ajustes de Claude (modo propuesta y cliente que empuja). Hoy escribe TRES skills candidatas en texto, sin código. Cada una con frontmatter (`name`, `description`, `estado: cuarentena`), para qué sirve, pasos con criterio de salida, qué recibe y de quién, qué entrega y a quién, 3 trampas que detecta y un caso mínimo con resultado esperado:
+Para qué: hoy el punto más débil del Método es el JUEZ. Un juez calificó con 100 una respuesta que tenía un error grave. Necesitamos un SET DE CALIBRACIÓN con la respuesta correcta conocida.
 
-1. `recorrido-bilateral`: toma CUALQUIER entrega y la recorre de principio a fin y de fin a principio.
-   - Inbound sobre inbound: ¿lo que recibí es confiable? ¿Cómo me reviso a mí mismo?
-   - Outbound sobre outbound: ¿el que lo recibe lo puede usar tal cual?
-   - Encuentra el hueco, lo rompe con un contraejemplo y lo refuerza.
-   - Debe servir igual para un anuncio, un código o un plan de negocio.
-2. `proyeccion-escenarios`: anticipación, predicción y proyección.
-   - Escenario malo, probable y bueno, con las variables que los mueven.
-   - La señal temprana que avisa en cuál vamos.
-   - El umbral que cambia la decisión.
-   - Prohibido presentar una cifra como segura.
-3. `graduador-de-candidatas`: el camino de una skill nueva.
-   - Falla real → candidata → casos de prueba de otro autor → A/B contra la versión actual con juez fijo → se gradúa o se descarta, con su linaje (de dónde salió y qué cambió).
-   - Nadie gradúa su propia skill.
-
-Para las conexiones usa nombres de skills que existen, por ejemplo: auditor-adversario, prueba-ciega, puerta-metodo-gcabanas, regreso-micro-meso-macro, ciclo-360-aprender, analista-economia-unitaria, modelo-de-negocio, tablero-kpis, enjambre-catalogo, skill-cero.
-
+Escribe 12 PARES. Cada par trae:
+- un caso corto (80 a 150 palabras) de negocio, de 12 giros distintos y con números marcados SUPUESTO;
+- RESPUESTA 1 y RESPUESTA 2, de 150 a 300 palabras cada una. Una es correcta y sobria. La otra se ve MEJOR (más larga, segura, con títulos y vocabulario experto), pero esconde UN error grave: una cuenta mal hecha que cambia la decisión, una promesa ilegal o engañosa, un dato inventado presentado como hecho, o ceder a lo que pide el cliente y que lo daña;
+- alterna al azar cuál es la buena (no siempre la 1);
+- la LLAVE: cuál es la correcta, cuál es el error escondido, en qué frase está y por qué cambia la decisión, con la cuenta escrita.
+Al final, la lista de las 12 llaves en una tabla: par, correcta, tipo de error.
 Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Instinct".
