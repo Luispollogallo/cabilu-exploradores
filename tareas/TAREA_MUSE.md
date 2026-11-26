@@ -1,8 +1,6 @@
-# Tarea vigente · Muse · 26-nov-2026 · Prueba "Agencia publicitaria"
-De los 5 negocios que trajiste (Antojitos San Miguelito, La Jungla Buffet, ALSA depilación, Limpieza TOTAL Puebla y English4Kids), revisa SOLO información pública: su página de Facebook e Instagram, sus reseñas de Google, su web y su catálogo de WhatsApp Business, si lo muestran públicamente.
-Por cada uno dime:
-- ¿Qué encuentra un cliente después del clic? Web, WhatsApp, horario y si muestran precios.
-- Sus 3 quejas y sus 3 elogios más repetidos en las reseñas, con fecha.
-- La promesa de su anuncio contra lo que entregan, según las reseñas.
-NO mandes mensajes, NO comentes, NO compres y NO contactes a nadie.
-Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Muse".
+# Tarea vigente · Muse · ronda 2 · 26-nov-2026 · Reglas que una agencia no puede romper
+Busca SOLO en fuentes oficiales y públicas, en español si existen, con link y fecha de consulta:
+1. Las políticas de publicidad de Meta que aplican a: depilación láser y estética (resultados, antes y después), servicios de salud y dentales (ortodoncia), y afirmaciones de salud (por ejemplo, "elimina ácaros" o "quita alergias"). Cita la regla exacta y su link.
+2. Las reglas mexicanas de publicidad de servicios de salud y de estética (COFEPRIS, Ley General de Salud y su Reglamento en Materia de Publicidad) que tocan: testimonios, fotos de pacientes, promesas de resultado, precios "desde" y datos de la cédula profesional. Cita el artículo exacto y su link.
+3. PROFECO sobre publicidad engañosa y precios "desde" o promociones (2x1, "$99 por zona"). Cita la regla y el link.
+Formato: una línea por regla, con fuente, artículo o cláusula, link, fecha y "NO VERIFICADO" si no pudiste leer el texto oficial. NO interpretes como abogado: solo cita. Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Muse".
