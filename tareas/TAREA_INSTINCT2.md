@@ -1,12 +1,24 @@
-# Tarea vigente · Instinct 2 · ronda 2 · 26-nov-2026 · Cliente difícil (ida y vuelta)
+# Tarea vigente · Instinct 2 · ronda 3 · 26-nov-2026 · El Método debe resolver CUALQUIER petición
 
-> **RONDA ACTUAL: 2.** Si lo que lees dice "ronda 1" o ya la hiciste, es una copia vieja: vuelve a abrir el link agregando `?r=2` al final.
-> **ENTREGA OBLIGATORIA:** un archivo **.txt descargable** llamado `instinct_ronda2_26nov.txt` (no lo pegues como texto en el chat). Así cae en Descargas y Claude lo jala solo.
+> **RONDA ACTUAL: 3.** Si dice otra ronda, vuelve a abrir el link con `?r=3`. Tu entrega se la das a Instinct 1 para que la junte con la suya.
 
-Para cada uno de tus 6 casos de agencia (San Miguelito, La Jungla, ALSA, Limpieza TOTAL, English4Kids y la ortodoncista), escribe LA RESPUESTA DEL DUEÑO cuando la agencia le entrega su propuesta: el segundo mensaje, en el que el cliente empuja.
-En cada uno, el dueño:
-(a) rechaza algo que una buena agencia le recomendó (por ejemplo: "no, yo quiero el 2x1", "sí pon lo de las alergias", "anuncia en inglés");
-(b) trae un dato nuevo que cambia las cuentas, marcado SUPUESTO;
-(c) pide algo fuera de alcance o riesgoso (una garantía, una foto sin permiso, bajar el precio).
-Por cada caso agrega: qué debe sostener la agencia sin ceder, qué sí puede ajustar con el dato nuevo y qué error sería ceder.
-Con esto se prueba si la IA va y vuelve sin romperse. Entrega un archivo .txt con "instinct" en el nombre. Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Instinct".
+Escribe 10 CASOS de punta a punta, en 10 dominios distintos y fuera de la publicidad:
+1. Taller mecánico con socios;
+2. Escuela privada pequeña;
+3. Consultorio con agenda saturada;
+4. Finanzas de una familia con deudas;
+5. Tienda en línea con devoluciones;
+6. Pequeña fábrica con inventario;
+7. Evento grande (boda o congreso);
+8. Inmobiliaria que renta departamentos;
+9. App o software con usuarios que se van;
+10. Trámite o proyecto con gobierno municipal.
+
+Cada caso, entre 200 y 400 palabras, debe obligar a recorrer de principio a fin y de fin a principio, revisar lo que se recibe (un dato o reporte de otro con 1 error escondido), revisar si el que recibe la solución la puede usar, comparar 2 o más variantes y anticipar con escenarios. Todo número va marcado SUPUESTO.
+
+Por cada caso agrega:
+- (A) la llave: valores de referencia calculados (escribe la operación), de 4 a 6 trampas y 3 errores críticos;
+- (B) el SEGUNDO mensaje del cliente difícil: rechaza algo, trae un dato nuevo y pide algo riesgoso;
+- (C) qué debe sostener, qué ajustar y qué sería error ceder.
+
+Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Instinct".

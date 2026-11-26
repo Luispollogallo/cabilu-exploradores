@@ -1,10 +1,14 @@
-# Tarea vigente · Muse · ronda 2 · 26-nov-2026 · Reglas que una agencia no puede romper
+# Tarea vigente · Muse · ronda 3 · 26-nov-2026 · Números reales de México para que el Método no adivine
 
-> **RONDA ACTUAL: 2.** Si lo que lees dice "ronda 1" o ya la hiciste, es una copia vieja: vuelve a abrir el link agregando `?r=2` al final.
-> **ENTREGA OBLIGATORIA:** un archivo **.txt descargable** llamado `muse_ronda2_26nov.txt` (no lo pegues como texto en el chat). Así cae en Descargas y Claude lo jala solo.
+> **RONDA ACTUAL: 3.** Si dice otra ronda o ya la hiciste, vuelve a abrir el link con `?r=3`.
+> **ENTREGA OBLIGATORIA:** archivo **.txt descargable** llamado `muse_ronda3_26nov.txt`.
 
-Busca SOLO en fuentes oficiales y públicas, en español si existen, con link y fecha de consulta:
-1. Las políticas de publicidad de Meta que aplican a: depilación láser y estética (resultados, antes y después), servicios de salud y dentales (ortodoncia), y afirmaciones de salud (por ejemplo, "elimina ácaros" o "quita alergias"). Cita la regla exacta y su link.
-2. Las reglas mexicanas de publicidad de servicios de salud y de estética (COFEPRIS, Ley General de Salud y su Reglamento en Materia de Publicidad) que tocan: testimonios, fotos de pacientes, promesas de resultado, precios "desde" y datos de la cédula profesional. Cita el artículo exacto y su link.
-3. PROFECO sobre publicidad engañosa y precios "desde" o promociones (2x1, "$99 por zona"). Cita la regla y el link.
-Formato: una línea por regla, con fuente, artículo o cláusula, link, fecha y "NO VERIFICADO" si no pudiste leer el texto oficial. NO interpretes como abogado: solo cita. Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Muse".
+Busca en fuentes públicas (2025-2026), con link y fecha, los NÚMEROS DE REFERENCIA de México que una agencia y un negocio necesitan para proyectar sin inventar:
+1. Meta Ads en México: CPM, CPC y costo por mensaje o conversación de WhatsApp, por giro (restaurantes, belleza y estética, servicios a domicilio, educación, salud dental).
+2. Tasas de conversión típicas: de mensaje a cita o venta, de demo a inscripción, de valoración a tratamiento.
+3. Retención: cuántos meses se queda un alumno de academia o un paciente de tratamiento, si hay estudios o reportes públicos.
+4. Comisiones de las apps de reparto en México (Uber Eats, Rappi, DiDi Food) para restaurantes.
+5. Costos de cumplimiento: costo del permiso o aviso de publicidad de COFEPRIS (Ley Federal de Derechos) y requisitos de la cédula profesional en anuncios de salud.
+
+Formato: una línea por dato, con rango, fuente, link, fecha del dato y "NO VERIFICADO" si es de un blog sin metodología. Nunca un número sin fuente. Separa los datos oficiales de los de agencias o blogs.
+Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Muse".
