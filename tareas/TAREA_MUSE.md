@@ -1,11 +1,12 @@
-# Tarea vigente · Muse · ronda 5 · 26-nov-2026 · Preparar el piloto real (solo información pública)
+# Tarea vigente · Muse · ronda 6 · 26-nov-2026 · Ficha pública del candidato a piloto
 
-> **RONDA ACTUAL: 5.** Si dice otra ronda o ya la hiciste, vuelve a abrir con `?r=5`.
-> **ENTREGA OBLIGATORIA:** **.txt descargable** `muse_ronda5_26nov.txt`.
+> **RONDA ACTUAL: 6.** Si dice otra ronda o ya la hiciste, vuelve a abrir con `?r=6`.
+> **ENTREGA OBLIGATORIA:** .txt descargable `muse_ronda6_26nov.txt`.
 
-Tu candidato de la ronda 4 fue Guauperrimos (estética canina a domicilio, Veracruz). Para preparar un piloto real, SOLO con información pública:
-1. Competencia en Veracruz y Boca del Río de estética o baño canino, a domicilio y en local: 8 negocios con nombre, link, precios publicados por tamaño de perro, si van a domicilio, horario, calificación y número de reseñas, con fecha.
-2. Precio promedio y rango por tamaño (chico, mediano y grande), solo con los precios publicados.
-3. Qué anuncios de la competencia llevan más días al aire (Biblioteca de anuncios o agregadores): gancho, oferta y a dónde lleva el clic.
-4. Las 3 quejas y los 3 elogios más repetidos en las reseñas de esos negocios.
+Con lo que trajiste de la competencia canina en Veracruz, arma la FICHA PÚBLICA de Guauperrimos, SOLO con información pública:
+- todos sus anuncios activos (texto, fecha de inicio y a dónde lleva el clic);
+- sus redes y la frecuencia con que publica;
+- los precios que muestra, si muestra alguno;
+- cómo se compara contra los 8 competidores en precio, reseñas y facilidad para agendar;
+- las 3 mejoras de mayor impacto que se ven desde afuera (por ejemplo: precio por tamaño, botón de WhatsApp, reseñas).
 NO contactes, NO comentes y NO compres. Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Muse".
