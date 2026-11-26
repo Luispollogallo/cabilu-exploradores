@@ -1,4 +1,8 @@
 # Tarea vigente · Instinct 2 · ronda 2 · 26-nov-2026 · Cliente difícil (ida y vuelta)
+
+> **RONDA ACTUAL: 2.** Si lo que lees dice "ronda 1" o ya la hiciste, es una copia vieja: vuelve a abrir el link agregando `?r=2` al final.
+> **ENTREGA OBLIGATORIA:** un archivo **.txt descargable** llamado `instinct_ronda2_26nov.txt` (no lo pegues como texto en el chat). Así cae en Descargas y Claude lo jala solo.
+
 Para cada uno de tus 6 casos de agencia (San Miguelito, La Jungla, ALSA, Limpieza TOTAL, English4Kids y la ortodoncista), escribe LA RESPUESTA DEL DUEÑO cuando la agencia le entrega su propuesta: el segundo mensaje, en el que el cliente empuja.
 En cada uno, el dueño:
 (a) rechaza algo que una buena agencia le recomendó (por ejemplo: "no, yo quiero el 2x1", "sí pon lo de las alergias", "anuncia en inglés");

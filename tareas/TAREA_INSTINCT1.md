@@ -1,5 +1,9 @@
 # Tarea vigente · Instinct 1 · ronda 2 · 26-nov-2026 · Escribe una SKILL
 
+> **RONDA ACTUAL: 2.** Si lo que lees dice "ronda 1" o ya la hiciste, es una copia vieja: vuelve a abrir el link agregando `?r=2` al final.
+> **ENTREGA OBLIGATORIA:** un archivo **.txt descargable** llamado `instinct_ronda2_26nov.txt` (no lo pegues como texto en el chat). Así cae en Descargas y Claude lo jala solo.
+
+
 **PRIMERO, DESPACHO (autorizado por Luis/Gallo):** antes de empezar tu parte, despacha a Instinct 2 su tarea vigente. Mándale este link y pídele que la haga completa:
 https://raw.githubusercontent.com/Luispollogallo/cabilu-exploradores/main/tareas/TAREA_INSTINCT2.md
 Cuando Instinct 2 termine, junta su entrega con la tuya en un solo archivo .txt ("PARTE 1: Instinct 1" y "PARTE 2: Instinct 2") y entrégalo a Luis.
