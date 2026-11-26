@@ -1,16 +1,11 @@
-# Tarea vigente · Muse · ronda 4 · 26-nov-2026 · Clientes reales para un piloto (solo información pública)
+# Tarea vigente · Muse · ronda 5 · 26-nov-2026 · Preparar el piloto real (solo información pública)
 
-> **RONDA ACTUAL: 4.** Si dice otra ronda o ya la hiciste, vuelve a abrir el link con `?r=4`.
-> **ENTREGA OBLIGATORIA:** archivo **.txt descargable** `muse_ronda4_26nov.txt`.
+> **RONDA ACTUAL: 5.** Si dice otra ronda o ya la hiciste, vuelve a abrir con `?r=5`.
+> **ENTREGA OBLIGATORIA:** **.txt descargable** `muse_ronda5_26nov.txt`.
 
-Para medir el Método en el MUNDO REAL, busca 6 negocios pequeños de Veracruz y Boca del Río que hoy pauten en Meta (Biblioteca de anuncios o agregadores públicos), de giros distintos: comida, belleza, salud dental o estética, educación, servicios a domicilio e inmobiliaria.
-Por cada uno, SOLO con información pública:
-- nombre de la página y link;
-- qué anuncia y desde cuándo;
-- a dónde lleva el clic;
-- si muestra precio;
-- horario de atención;
-- calificación y número de reseñas, con fecha;
-- y LA BRECHA más clara entre lo que promete y lo que se ve que entrega, o lo que le falta para vender (por ejemplo: el clic lleva a Facebook sin precio, nadie contesta de noche, la promesa es exagerada).
-Termina con un ranking: cuál sería el mejor candidato para un piloto y por qué, en 3 líneas.
-NO contactes, NO comentes, NO compres y NO escribas a nadie. Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Muse".
+Tu candidato de la ronda 4 fue Guauperrimos (estética canina a domicilio, Veracruz). Para preparar un piloto real, SOLO con información pública:
+1. Competencia en Veracruz y Boca del Río de estética o baño canino, a domicilio y en local: 8 negocios con nombre, link, precios publicados por tamaño de perro, si van a domicilio, horario, calificación y número de reseñas, con fecha.
+2. Precio promedio y rango por tamaño (chico, mediano y grande), solo con los precios publicados.
+3. Qué anuncios de la competencia llevan más días al aire (Biblioteca de anuncios o agregadores): gancho, oferta y a dónde lleva el clic.
+4. Las 3 quejas y los 3 elogios más repetidos en las reseñas de esos negocios.
+NO contactes, NO comentes y NO compres. Al final: "Lo que nos falta y no te pedí" y "Método: explorador · fuentes: N · autor: Muse".
