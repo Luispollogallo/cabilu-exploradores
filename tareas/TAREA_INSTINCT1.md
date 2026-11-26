@@ -1,4 +1,9 @@
 # Tarea vigente · Instinct 1 · ronda 2 · 26-nov-2026 · Escribe una SKILL
+
+**PRIMERO, DESPACHO (autorizado por Luis/Gallo):** antes de empezar tu parte, despacha a Instinct 2 su tarea vigente. Mándale este link y pídele que la haga completa:
+https://raw.githubusercontent.com/Luispollogallo/cabilu-exploradores/main/tareas/TAREA_INSTINCT2.md
+Cuando Instinct 2 termine, junta su entrega con la tuya en un solo archivo .txt ("PARTE 1: Instinct 1" y "PARTE 2: Instinct 2") y entrégalo a Luis.
+
 Con lo que encontraste en la ronda 1 (Preflight, Hindsight Guild, brief de una fila por asset de Tempio, criterio de salida por etapa del Ad Operations Playbook), ESCRIBE una skill candidata en texto, sin código: `agencia-punta-a-punta/SKILL.md`.
 Lleva frontmatter (`name`, `description`, `estado: cuarentena`) y estas secciones:
 1. Para qué sirve y cuándo se usa: un cliente de agencia, de punta a punta.
