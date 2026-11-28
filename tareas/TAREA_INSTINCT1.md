@@ -1,17 +1,20 @@
-# Tarea vigente · Instinct 1 (con Instinct 2 y 3) · ronda 9 · 28-nov-2026 · LA PRIMERA FOGATA REAL HECHA POR USTEDES
+# Tarea vigente · Instinct 1 (con 2 y 3) · ronda 10 · 28-nov-2026 · Fogata para VIDEOS PRO AGENCIA
 
-> **RONDA ACTUAL: 9.** Si dice otra ronda, vuelve a abrir con `?r=9`.
-> **ENTREGA:** un .txt descargable `instinct_ronda9_fogata_real.txt`.
+> **RONDA ACTUAL: 10.** Si dice otra ronda, vuelve a abrir con `?r=10`. **ENTREGA:** `instinct_ronda10_videopro.txt`.
 
-En la ronda 8 escribieron una Fogata simulada por un solo autor; ustedes mismos dijeron que no prueba nada. Ahora háganla REAL: ustedes son 3 agentes independientes, justo lo que la Fogata necesita.
+**RESULTADO DE SU FOGATA (ronda 9):** ganó 6 de 6 contra una sola IA con DOS jueces de otras empresas (ChatGPT y Meta AI). Por ejemplo, 94 contra 71 y 95 contra 73. El pilar Fogata subió de 20 % a 45 % y el Método va en ≈ 60 %. Bien hecho, y gracias por declarar que la fase ciega no fue 100 % ciega.
 
-Usen los 6 casos de su ronda 8 (Café Brasa, Roble & Hijos, Dulce Norte, Tacos El Güero, Distribuidora Marina y Ferretería Hernández), SIN las llaves.
+**AHORA, LO REAL:** Video Pro Agencia todavía no supera a la vara Carolina V12. Sus fallas conocidas:
+- el OCR se atora;
+- el "10" grande del gancho no se dibuja, porque la receta tiene desactivadas las palabras grandes;
+- el banco de estilos promete efectos que el motor no ejecuta;
+- y falta el juicio comercial contra V12.
+Ustedes ya hicieron el kit v5.3 con 95 pruebas.
 
-**FASE 1 · A CIEGAS (independencia real).** Instinct 1, 2 y 3 resuelven cada caso POR SEPARADO. Nadie ve la respuesta de los otros ni las llaves. Cada uno entrega su decisión, su cuenta y su confianza.
-**FASE 2 · CRÍTICA CRUZADA.** Cada uno rompe las propuestas de los otros dos: cuentas, supuestos y trampas.
-**FASE 3 · PRESIDENTE.** Instinct 1 sintetiza: la decisión, "por qué discreparon" y qué evidencia los pondría de acuerdo.
-**FASE 4 · BRAZO SOLO (control).** Instinct 3, en una sesión NUEVA y sin nada de lo anterior, resuelve cada caso solo, de una pasada.
-**FASE 5 · PAQUETE CIEGO.** Por cada caso, pongan la respuesta FOGATA y la respuesta SOLA como "X" y "Y" en orden al azar. Dejen la asignación en una sección final llamada SELLO, que el juez no leerá.
-
-Reglas: nada de leyes inventadas; todo número va SUPUESTO o sale del caso; verifiquen sus cuentas con código. Entreguen las 5 fases completas, sin calificarse.
+**FASE 1 · A CIEGAS, cada Instinct por separado:** diagnostica la causa raíz de por qué el video no supera a V12 y propón UN plan de 3 pasos con criterio de salida medible. Usa tu propio kit v5.3 y lo que sabes del caso; no inventes datos del video; lo que no viste va como NO VERIFICADO.
+**FASE 2 · CRÍTICA CRUZADA** entre los 3.
+**FASE 3 · PRESIDENTE (Instinct 1):** UN plan final, con quién lo ejecuta en la Mac (Codex), en qué orden, qué prueba demuestra que el video ya supera a V12 (por ejemplo, un panel ciego que compare cuadros contra V12) y qué se hace si falla.
+**FASE 4 · CONTROL:** Instinct 3, en una sesión nueva, propone solo.
+**FASE 5 · PAQUETE CIEGO:** el plan FOGATA y el plan SOLO como X/Y, con el SELLO aparte al final.
+Además, ENTREGA LISTO PARA CODEX: la orden final del presidente en un bloque de texto que se pueda pegar tal cual.
 Al final: "Lo que nos falta y no te pedí" y "Método: explorador · autor: Instinct 1-2-3".
